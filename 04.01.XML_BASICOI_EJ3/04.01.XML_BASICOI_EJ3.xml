@@ -1,1 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: Daniel del Caz Fernández
+Curso: Lenguaje de Marcas ASIR1
+Fecha: 19/03/2025
+Ejercicio: 04.01.XML_BASICOI_EJ2
+-->
+
+<libros>
+    <libro titulo="1984" autor="George Orwell" año="1949"/>
+    <libro titulo="Cien años de soledad" autor="Gabriel García Márquez" año="1967"/>
+    <libro titulo="El señor de los anillos" autor="J.R.R Tolkien" año="1954"/>
+</libros>
