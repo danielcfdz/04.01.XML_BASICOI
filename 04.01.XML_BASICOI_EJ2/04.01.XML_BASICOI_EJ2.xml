@@ -19,7 +19,7 @@ Ejercicio: 04.01.XML_BASICOI_EJ2
         <fecha>
             <dia>4</dia>
             <mes>9</mes>
-            <año>1998<año>
+            <año>1998</año>
         </fecha>
     </hechos>
     <hechos descripcion="Se funda Facebook">
