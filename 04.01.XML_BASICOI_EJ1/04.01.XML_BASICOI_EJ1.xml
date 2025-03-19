@@ -1,1 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Nombre: Daniel del Caz Fernández
+Curso: Lenguaje de Marcas ASIR1
+Fecha: 19/03/2025
+Ejercicio: 04.01.XML_BASICOI_EJ1
+-->
+
+<ciudades>
+    <ciudad continente="Asia">
+        <nombre>Nueva Delhi</nombre>
+        <pais>India</pais>
+    </ciudad>
+    <ciudad continente="Europa">
+        <nombre>Lisboa</nombre>
+        <pais>Portugal</pais>
+    </ciudad>
+    <ciudad continente="Africa">
+        <nombre>El Cairo</nombre>
+        <pais>Egipto</nombre>
+    </ciudad>
+</ciudades>
+    
